@@ -32,4 +32,4 @@ Allow: /
 User-agent: Yandex
 Allow: /
 
-Sitemap: https://sablebuddyuniverse.com/sitemap.xml
+Sitemap: https://brainsneed.com/sitemap.xml

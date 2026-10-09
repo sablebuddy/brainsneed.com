@@ -1,4 +1,4 @@
-# SableBuddy Universe — sablebuddyuniverse.com
+# SableBuddy Universe — brainsneed.com
 
 > Вселенная SableBuddy: бесплатные материалы и инструменты о мозге, эмоциях и продуктивности. Главный проект — ADHD Toolkit, интерактивный навигатор навыков при СДВГ на двух языках (русский и английский). Сайт статический, не требует регистрации.
 >
@@ -6,53 +6,53 @@
 
 ## Структура сайта / Site structure
 
-- https://sablebuddyuniverse.com/ — главная (RU), зонтичная страница вселенной SableBuddy
-- https://sablebuddyuniverse.com/en/ — home page (EN)
-- https://sablebuddyuniverse.com/manifest/ — манифест «Почему этот сайт существует»: почему все навыки бесплатные, при чём тут система Toyota, WCM/TPM и принципы 5S
-- https://sablebuddyuniverse.com/en/manifest/ — manifesto "Why this site exists" (EN)
-- https://sablebuddyuniverse.com/about/ — об авторе: инженер качества, 20+ лет в WCM/TPM; «организую среду, а не лечу»
-- https://sablebuddyuniverse.com/en/about/ — about the author (EN)
-- https://sablebuddyuniverse.com/adhd/ — ADHD Toolkit: интерактивный навигатор (выбери проблему → получи навык), RU/EN внутри
-- https://sablebuddyuniverse.com/en/adhd/ — ADHD Toolkit navigator (EN entry)
+- https://brainsneed.com/ — главная (RU), зонтичная страница вселенной SableBuddy
+- https://brainsneed.com/en/ — home page (EN)
+- https://brainsneed.com/manifest/ — манифест «Почему этот сайт существует»: почему все навыки бесплатные, при чём тут система Toyota, WCM/TPM и принципы 5S
+- https://brainsneed.com/en/manifest/ — manifesto "Why this site exists" (EN)
+- https://brainsneed.com/about/ — об авторе: инженер качества, 20+ лет в WCM/TPM; «организую среду, а не лечу»
+- https://brainsneed.com/en/about/ — about the author (EN)
+- https://brainsneed.com/adhd/ — ADHD Toolkit: интерактивный навигатор (выбери проблему → получи навык), RU/EN внутри
+- https://brainsneed.com/en/adhd/ — ADHD Toolkit navigator (EN entry)
 
 ## Статичные страницы контента / Static content pages
 
 Навыки (по зонам) / Skills (by zone):
 
-- https://sablebuddyuniverse.com/adhd/skills/zapusk-i-tormozhenie/ — Запуск и торможение (14 навыков)
-- https://sablebuddyuniverse.com/adhd/skills/fokus-i-haos/ — Фокус и хаос (23 навыка)
-- https://sablebuddyuniverse.com/adhd/skills/emotsii-i-energiya/ — Эмоции и энергия (25 навыков)
-- https://sablebuddyuniverse.com/adhd/skills/obschenie/ — Общение (12 навыков)
-- https://sablebuddyuniverse.com/en/adhd/skills/activation-and-braking/ — Activation and braking (14 skills)
-- https://sablebuddyuniverse.com/en/adhd/skills/focus-and-chaos/ — Focus and chaos (23 skills)
-- https://sablebuddyuniverse.com/en/adhd/skills/emotions-and-energy/ — Emotions and energy (25 skills)
-- https://sablebuddyuniverse.com/en/adhd/skills/communication/ — Communication (12 skills)
-- https://sablebuddyuniverse.com/adhd/skills/kak-ustroen-navyk/ — «Почему навык работает, а решимость нет»: опорная статья раздела навыков
-- https://sablebuddyuniverse.com/en/adhd/skills/how-a-skill-works/ — Why a skill works and willpower doesn't (skills pillar)
-- https://sablebuddyuniverse.com/adhd/emotions/nazvat-emociyu/ — «Почему "мне плохо" не помогает»: зачем называть эмоции точно
-- https://sablebuddyuniverse.com/en/adhd/emotions/naming-the-emotion/ — Why saying "I feel bad" doesn't help (emotions pillar)
+- https://brainsneed.com/adhd/skills/zapusk-i-tormozhenie/ — Запуск и торможение (14 навыков)
+- https://brainsneed.com/adhd/skills/fokus-i-haos/ — Фокус и хаос (23 навыка)
+- https://brainsneed.com/adhd/skills/emotsii-i-energiya/ — Эмоции и энергия (25 навыков)
+- https://brainsneed.com/adhd/skills/obschenie/ — Общение (12 навыков)
+- https://brainsneed.com/en/adhd/skills/activation-and-braking/ — Activation and braking (14 skills)
+- https://brainsneed.com/en/adhd/skills/focus-and-chaos/ — Focus and chaos (23 skills)
+- https://brainsneed.com/en/adhd/skills/emotions-and-energy/ — Emotions and energy (25 skills)
+- https://brainsneed.com/en/adhd/skills/communication/ — Communication (12 skills)
+- https://brainsneed.com/adhd/skills/kak-ustroen-navyk/ — «Почему навык работает, а решимость нет»: опорная статья раздела навыков
+- https://brainsneed.com/en/adhd/skills/how-a-skill-works/ — Why a skill works and willpower doesn't (skills pillar)
+- https://brainsneed.com/adhd/emotions/nazvat-emociyu/ — «Почему "мне плохо" не помогает»: зачем называть эмоции точно
+- https://brainsneed.com/en/adhd/emotions/naming-the-emotion/ — Why saying "I feel bad" doesn't help (emotions pillar)
 
 Когнитивные ловушки / Cognitive traps (20 traps: 1 pillar + 5 clusters by mechanism):
 
-- https://sablebuddyuniverse.com/adhd/traps/ — хаб: опорная статья и 5 кластеров по механизмам
-- https://sablebuddyuniverse.com/adhd/traps/specification/ — «Твой мозг работает по спецификации»: откуда берутся когнитивные ловушки
-- https://sablebuddyuniverse.com/adhd/traps/unknown/ — Мозг не выносит пустоты (достраивание неизвестного)
-- https://sablebuddyuniverse.com/adhd/traps/binary/ — Мозг режет мир надвое (черно-белое мышление)
-- https://sablebuddyuniverse.com/adhd/traps/accounting/ — Двойная бухгалтерия (плохое считается в другой валюте)
-- https://sablebuddyuniverse.com/adhd/traps/control/ — Иллюзия контроля (лучше виноватый я, чем случайность)
-- https://sablebuddyuniverse.com/adhd/traps/evidence/ — Реакция как доказательство (чувствую, значит правда)
-- https://sablebuddyuniverse.com/en/adhd/traps/ — hub: pillar article + 5 clusters by mechanism
-- https://sablebuddyuniverse.com/en/adhd/traps/specification/ — Your brain is working to spec
-- https://sablebuddyuniverse.com/en/adhd/traps/unknown/ — Your brain can't stand a blank space
-- https://sablebuddyuniverse.com/en/adhd/traps/binary/ — Your brain cuts the world in half
-- https://sablebuddyuniverse.com/en/adhd/traps/accounting/ — Your Brain Keeps Two Sets of Books
-- https://sablebuddyuniverse.com/en/adhd/traps/control/ — The illusion of control
-- https://sablebuddyuniverse.com/en/adhd/traps/evidence/ — Your Reaction Is Not Evidence
+- https://brainsneed.com/adhd/traps/ — хаб: опорная статья и 5 кластеров по механизмам
+- https://brainsneed.com/adhd/traps/specification/ — «Твой мозг работает по спецификации»: откуда берутся когнитивные ловушки
+- https://brainsneed.com/adhd/traps/unknown/ — Мозг не выносит пустоты (достраивание неизвестного)
+- https://brainsneed.com/adhd/traps/binary/ — Мозг режет мир надвое (черно-белое мышление)
+- https://brainsneed.com/adhd/traps/accounting/ — Двойная бухгалтерия (плохое считается в другой валюте)
+- https://brainsneed.com/adhd/traps/control/ — Иллюзия контроля (лучше виноватый я, чем случайность)
+- https://brainsneed.com/adhd/traps/evidence/ — Реакция как доказательство (чувствую, значит правда)
+- https://brainsneed.com/en/adhd/traps/ — hub: pillar article + 5 clusters by mechanism
+- https://brainsneed.com/en/adhd/traps/specification/ — Your brain is working to spec
+- https://brainsneed.com/en/adhd/traps/unknown/ — Your brain can't stand a blank space
+- https://brainsneed.com/en/adhd/traps/binary/ — Your brain cuts the world in half
+- https://brainsneed.com/en/adhd/traps/accounting/ — Your Brain Keeps Two Sets of Books
+- https://brainsneed.com/en/adhd/traps/control/ — The illusion of control
+- https://brainsneed.com/en/adhd/traps/evidence/ — Your Reaction Is Not Evidence
 
 Эмоции / Emotions:
 
-- https://sablebuddyuniverse.com/adhd/emotions/ — Карта эмоций: 8 эмоций, телесные сигналы, послания
-- https://sablebuddyuniverse.com/en/adhd/emotions/ — Emotions map: 8 emotions, body signals, messages
+- https://brainsneed.com/adhd/emotions/ — Карта эмоций: 8 эмоций, телесные сигналы, послания
+- https://brainsneed.com/en/adhd/emotions/ — Emotions map: 8 emotions, body signals, messages
 
 ## Позиционирование / Positioning
 
@@ -72,4 +72,4 @@
 
 - Маскот: соболь Бадди (Buddy the sable)
 - Статический сайт на GitHub Pages, без бэкенда
-- Sitemap: https://sablebuddyuniverse.com/sitemap.xml
+- Sitemap: https://brainsneed.com/sitemap.xml
