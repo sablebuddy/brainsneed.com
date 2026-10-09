@@ -1,12 +1,12 @@
-# SableBuddy Universe — brainsneed.com
+# Brain Needs Tools — brainsneed.com
 
-> Вселенная SableBuddy: бесплатные материалы и инструменты о мозге, эмоциях и продуктивности. Главный проект — ADHD Toolkit, интерактивный навигатор навыков при СДВГ на двух языках (русский и английский). Сайт статический, не требует регистрации.
+> Brain Needs Tools: бесплатные материалы и инструменты о мозге, эмоциях и продуктивности. Главный проект — ADHD Toolkit, интерактивный навигатор навыков при СДВГ на двух языках (русский и английский). Сайт статический, не требует регистрации.
 >
-> SableBuddy Universe: free materials and tools about the brain, emotions and productivity. The main project is ADHD Toolkit, an interactive bilingual (RU/EN) ADHD skills navigator. Static site, no sign-up.
+> Brain Needs Tools: free materials and tools about the brain, emotions and productivity. The main project is ADHD Toolkit, an interactive bilingual (RU/EN) ADHD skills navigator. Static site, no sign-up.
 
 ## Структура сайта / Site structure
 
-- https://brainsneed.com/ — главная (RU), зонтичная страница вселенной SableBuddy
+- https://brainsneed.com/ — главная (RU), зонтичная страница Brain Needs Tools
 - https://brainsneed.com/en/ — home page (EN)
 - https://brainsneed.com/manifest/ — манифест «Почему этот сайт существует»: почему все навыки бесплатные, при чём тут система Toyota, WCM/TPM и принципы 5S
 - https://brainsneed.com/en/manifest/ — manifesto "Why this site exists" (EN)
